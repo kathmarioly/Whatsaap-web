@@ -1,0 +1,75 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	margin: 0 auto;
+	font-size: 16px;
+	line-height: 1.71429;
+	background-color: #808080;
+}
+
+/*Fondo*/
+.rectangulo-vacio{
+	background-color: #00cca3;
+	color: #00cca3;
+	text-align: center;
+	padding: 10px;
+}
+
+
+/*chat*/
+
+.container{
+	background-color: whitesmoke;
+	top: -30px;
+}
+
+.nav-interior{
+	background-color: #808080;
+	display: inline-block;
+}
+.uno img{
+	max-width: 100%;
+	width: 20%;
+	border-radius: 100px;
+}
+
+.flipkart-navbar-input{
+
+}
+
+.nav-chat{
+	background-color: #808080;
+	padding: 10px;
+}
+
+
+.container-fluid{
+	background-color: whitesmoke;
+	margin-left: 30px;
+	margin-right: 30px;
+	top: -50px;
+
+	
+}
+.lista-contactos img{
+	max-width: 100%;
+	width: 8%;
+	border-radius: 100px;
+}
+.lista-contactos{
+	text-decoration: none;
+	list-style: none;
+
+}
+
+p{
+	color: black;
+	font-size: 10px;
+}
+
+.buscar-nuevo{
+	padding: 5px;
+}
+
+#lista-contactos{
+	background-color: pink;
+}
